@@ -75,7 +75,8 @@
         
                 // element.addEventListener('touchstart', touchStartHandler);
                 element.addEventListener('touchend', touchEndHandler);
-            });
+            }
+                               });
         }   
 
         const carosel=(event)=>{
